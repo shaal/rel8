@@ -1,0 +1,14 @@
+uuid: 11184075-a56d-43bd-9468-433dd7f78fab
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - ofer@3paces.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
